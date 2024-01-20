@@ -1,2 +1,2 @@
-# CE-projects
+# CE-projects ⚖️
 Cloud Engineering projects
